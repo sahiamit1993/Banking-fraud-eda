@@ -33,38 +33,6 @@ This project is designed for:
 
 ---
 
-# 📂 Project Structure
-
-```bash
-banking-fraud-pyspark/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   └── banking_fraud_eda.ipynb
-│
-├── outputs/
-│   └── plots/
-│
-├── src/
-│   ├── cleaning/
-│   ├── eda/
-│   ├── ingestion/
-│   ├── utils/
-│   └── feature_engineering/
-│
-├── config/
-│   └── spark_config.yaml
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
----
-
 # 📊 Dataset Information
 
 ### Dataset
